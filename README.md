@@ -17,6 +17,7 @@ where HPI is dependent variable and other 9 are dependent variables.
 I converted "DATE" variable's datatype to "DateTime" using "pandas" function and did necessary data cleaning.
 
 I created many graphical representation for data visualization using "seaborn" and "matplotlib".
+eg : Distribution plots,Scatter plots,Histograms,Heatmap,Pairplot,Boxplot etc
 
 I assigned independent variables to "X" and dependent variable to"y" and then i split data into training and testing part as 70% and 30%  respectively using "scikit-learn".
 
