@@ -12,7 +12,7 @@ I took csv data file of "Demand" and "Supply" and merged them and stored them in
 - Housing_Starts
 - HPI  ,
   
-where HPI is dependent variable and other 9 are dependent variables.
+where HPI is dependent variable and other 9 are independent variables.
 
 I converted "DATE" variable's datatype to "DateTime" using "pandas" function and did necessary data cleaning.
 
