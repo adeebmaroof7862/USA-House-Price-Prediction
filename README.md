@@ -1,6 +1,6 @@
 # USA-House-Price-Prediction
 This project is based on USA House Price Prediction for last 20 years.
-I took csv data file of "Demand" and "Supply" and merged them and stored them in "df3" dataframe for better understganding. "df3" condains numerical data having variables as,                                                                                                        
+I took csv data file of "Demand" and "Supply" and merged them and stored them in "df3" dataframe for better understganding. "df3" contains numerical data having variables as,                                                                                                        
 - DATE	                                                                            
 - UNEM_RATE                                                                           
 - MORTGAGE 	                                                                   
